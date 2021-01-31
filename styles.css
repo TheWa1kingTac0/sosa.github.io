@@ -1,0 +1,109 @@
+.title {
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: cursive;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: rgb(24, 86, 156);
+  padding-left: 0px;
+  padding-right: 200px;
+  padding-bottom:10px;
+  padding-top:0px;
+  border-radius: 25px;
+
+}
+
+p {
+  font-size: 18px;
+}
+
+.aboutUs {
+  color: black;
+  font-family: cursive;
+  font-weight: bold;
+  background-color: gray;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 28px;
+  border-color: darkgray;
+  border-width: 4px;
+}
+
+.supportPageButtons {
+  font-family: cursive;
+  background-color: rgb(27, 96, 175);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 12px;
+  padding-left: 12px;
+  font-weight: bold;
+  font-size: 28px;
+  border-color: rgb(20, 69, 126);
+  border-width: 4px;
+}
+
+.supportUs {
+  color: black;
+  font-family: cursive;
+  background-color: gray;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 7px;
+  font-size: 28px;
+  font-weight: bold;
+  border-color: darkgray;
+  border-width: 4px;
+}
+
+.contactInfo {
+  color: black;
+  font-family: cursive;
+  background-color: gray;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 7px;
+  font-size: 28px;
+  font-weight: bold;
+  border-color: darkgray;
+  border-width: 4px;
+}
+
+body {
+  background-color: rgb(99, 176, 228);
+  margin-top: 0px;
+}
+
+.contactInformation {
+  color: rgb(34, 34, 34)
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 20px;
+  font-size: 28px:
+}
+
+.blog {
+  color: black;
+  font-family: cursive;
+  font-weight: bold;
+  background-color: gray;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 28px;
+  border-color: darkgray;
+  border-width: 4px;
+}
+
+.subheading {
+  font-size: 26px;
+  font-weight: bolder;
+}
